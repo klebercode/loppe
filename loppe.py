@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 u"""
-Desenvolvido por Kleber Soares
+Desenvolvido por: Kleber Soares
 """
 
 import pygtk
